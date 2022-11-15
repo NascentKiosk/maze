@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maze/static/css/main.3752181d.css",
+    "main.js": "/maze/static/js/main.b181cef0.js",
+    "static/media/carrot.svg": "/maze/static/media/carrot.ecd1566dd9ada631f90da5dee5530ebe.svg",
+    "static/media/rabbit.svg": "/maze/static/media/rabbit.701e06c9c97ba7c6b9bc8b1c227e66e9.svg",
+    "index.html": "/maze/index.html",
+    "main.3752181d.css.map": "/maze/static/css/main.3752181d.css.map",
+    "main.b181cef0.js.map": "/maze/static/js/main.b181cef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3752181d.css",
+    "static/js/main.b181cef0.js"
+  ]
+}
